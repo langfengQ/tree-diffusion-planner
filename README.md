@@ -62,7 +62,7 @@ git checkout locomotion
 
 3. **Follow the branch-specific README**: Now you are ready to explore and experiment with TAT in your chosen environment! 🥳 Then, you can refer to that sub-branch's README file for instructions on setting up the environment, running experiments, and additional configurations.
 
-## 🛠️ Issue
+## ❓ Issue
 If you have any questions about the code, please feel free to open an issue!
 
 ## 📝 Citation
