@@ -1,8 +1,8 @@
-<h3 align="center">
+<h1 align="center">
 <b>
 Resisting Stochastic Risks in Diffusion Planners with the Trajectory Aggregation Tree 🌳
 </b>
-</h3>
+</h1>
 
 <div align="center">
   <b>
