@@ -11,14 +11,17 @@ Resisting Stochastic Risks in Diffusion Planners with the Trajectory Aggregation
 </div>
 
 <p align="center">
-| <a href="https://github.com/langfengQ/tree-diffusion-planner"><b>Website</b></a> | <a href="https://arxiv.org/abs/2405.17879"><b>Arxiv</b></a> | <a href="https://proceedings.mlr.press/v235/feng24b.html"><b>Paper</b></a> | <a href="https://icml.cc/media/PosterPDFs/ICML%202024/34197.png?t=1719634719.7916923"><b>Poster</b></a> |
+| <a href="https://github.com/langfengQ/tree-diffusion-planner"><b>Website</b></a> | <a href="https://arxiv.org/abs/2405.17879"><b>Arxiv</b></a> | <a href="https://proceedings.mlr.press/v235/feng24b.html"><b>Paper</b></a> | <a href="https://icml.cc/media/PosterPDFs/ICML%202024/34197.png?t=1719634719.7916923"><b>Poster</b></a> | 
+</p>
+<p align="center">
+| <a href="https://github.com/langfengQ/tree-diffusion-planner/tree/maze2d"><b>Code in Maze2D</b></a> | <a href="https://github.com/langfengQ/tree-diffusion-planner/tree/kuka"><b>Code in Kuka</b></a> | <a href="https://github.com/langfengQ/tree-diffusion-planner/tree/locomotion"><b>Code in Locomotion</b></a> |
 </p>
 
 This repository contains the complete code of TAT built upon the pre-trained [Diffuser](https://github.com/jannerm/diffuser). The codes are organized into three separate sub-branches for easy access:
 
-- **Maze2D environment**: access the code directly [here](https://github.com/langfengQ/tree-diffusion-planner/tree/maze2d) (`maze2d` branch).
-- **Kuka Block Stacking environment**: access the code directly [here](https://github.com/langfengQ/tree-diffusion-planner/tree/kuka) (`kuka` branch).
-- **MuJoCo Locomotion environment**: access the code directly [here](https://github.com/langfengQ/tree-diffusion-planner/tree/locomotion) (`locomotion` branch).
+- **Maze2D environment**: access the code [here](https://github.com/langfengQ/tree-diffusion-planner/tree/maze2d) (`maze2d` branch).
+- **Kuka Block Stacking environment**: access the code [here](https://github.com/langfengQ/tree-diffusion-planner/tree/kuka) (`kuka` branch).
+- **MuJoCo Locomotion environment**: access the code [here](https://github.com/langfengQ/tree-diffusion-planner/tree/locomotion) (`locomotion` branch).
 
 ⚠️ Note: the `master` branch does not contain any codes. Please refer to the `maze2d`, `kuka`, and `locomotion` branches for the full implementations.
 
